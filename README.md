@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on on something cool 😉<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at https://tarunkumaryandra.github.io/portfolio/<br><br>📫 How to reach me tarunyandra124@gmail.com</p>
+<p align="left">🔭 I’m currently working on something cool 😉<br>🌱 I’m currently learning MERN Stack<br>👨‍💻 All of my projects are available at https://tarunkumaryandra.github.io/portfolio/<br>📫 How to reach me tarunyandra124@gmail.com</p>
 
 ###
 
