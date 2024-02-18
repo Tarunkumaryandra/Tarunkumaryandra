@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tarun Kumar and I'm a MERN Stack Developer, from India</h2>
+<h2 align="left">Hi 👋! I'm Tarun Kumar and I'm a MERN Stack Developer, from India</h2>
 
 ###
 
